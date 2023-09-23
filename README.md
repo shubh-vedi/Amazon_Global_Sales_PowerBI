@@ -3,7 +3,7 @@
 # Amazon-Dashboard-PowerBI
 This is the interactive PowerBI dashboard. In this dashboard we are analysing the Amazon Global Sales for the year 2012-2015.
 
-![](https://github.com/shubh-vedi/Amazon_Global_Sales_PowerBI/blob/main/Image.jpg)<br>
+![](https://github.com/shubh-vedi/Amazon_Global_Sales_PowerBI/blob/main/Amazon%20Sales%20Analysis.png)<br>
 
 The interactive PowerBI dashboard you're referring to is a data analysis project focused on examining Amazon's global sales data for the years 2012 to 2015. This project likely aims to provide users with valuable insights and a comprehensive overview of Amazon's sales performance during this specific time frame. Here's a breakdown of what you might expect from this PowerBI project:
 
